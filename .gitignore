@@ -1,0 +1,17 @@
+# Raw and intermediate data (see README for how to obtain / regenerate)
+*.csv
+# To publish the cleaned dataset so 02_modeling.ipynb runs as-is, delete the
+# line above or run: git add -f Finalized_MasterList.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
