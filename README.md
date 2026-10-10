@@ -6,7 +6,7 @@ This project predicts country-level **life evaluation** (the World Happiness Rep
 
 **Headline result:** a stacked Gradient Boosting + XGBoost ensemble reached a test **R² of 0.946 (RMSE 0.277)** on a held-out year (2023, 128 countries), using 64 selected features. See [Limitations](#limitations) for what that number does and does not show.
 
-Full write-up: [`report/Capstone_Report.pdf`](report/Capstone_Report.pdf)
+Full write-up: [`Capstone_Report.pdf`](Capstone_Report.pdf)
 
 ![Ensemble predictions on the 2023 test set](figures/ensemble_test_predictions.png)
 
